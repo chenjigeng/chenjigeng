@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=chenjigeng)
 
+![](https://github-readme-stats.vercel.app/api?username=chenjigeng&show_icons=true&icon_color=199861&count_private=true)
 
 <!--
 **chenjigeng/chenjigeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
