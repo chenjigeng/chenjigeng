@@ -1,4 +1,5 @@
 ### Hi there 👋
+一个干啥啥不行，吃饭第一名的吃饭界翘楚
 
 ![](https://komarev.com/ghpvc/?username=chenjigeng)
 
